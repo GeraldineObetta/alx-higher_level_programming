@@ -3,9 +3,7 @@
 Module for log parsing scripts.
 """
 
-
 import sys
-
 
 if __name__ == "__main__":
     size = [0]
